@@ -1,5 +1,7 @@
 # 📄 Resume and Cover Letter of Joan Antoni Casermeiro
 
+## 🇬🇧 In English
+
 Welcome to my professional repository. Here you will find my resume and cover letters in multiple languages, designed to showcase my skills and experience in railway maintenance, aeronautics, and cross-platform application development.
 
 ---
