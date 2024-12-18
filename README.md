@@ -9,11 +9,11 @@ Bienvenido a mi repositorio profesional. Aquí encontrarás mi currículum y car
 ## 📝 Archivos Disponibles
 
 ### 📌 Currículums
-- [Currículum en Español](./CV_Joan_Antoni_Casermeiro_ES.md)
-- [Currículum en Inglés](./CV_Joan_Antoni_Casermeiro_EN.md)
+- [Currículum en Español](.Joan_Antoni_Casermeiro_Professional_Profile/.CV_Joan_Antoni_Casermeiro_ES.md)
+- [Currículum en Inglés](.Joan_Antoni_Casermeiro_Professional_Profile/.CV_Joan_Antoni_Casermeiro_EN.md)
 
 ### 📌 Cartas de Presentación
-- [Carta de Presentación en Español](./Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
+- [Carta de Presentación en Español](.Joan_Antoni_Casermeiro_Professional_Profile/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
 - [Cover Letter in English](./Cover_Letter_Joan_Antoni_Casermeiro_EN.md)
 
 ---
