@@ -9,12 +9,12 @@ Bienvenido a mi repositorio profesional. Aquí encontrarás mi currículum y car
 ## 📝 Archivos Disponibles
 
 ### 📌 Currículums
-- [Currículum en Español](.Joan_Antoni_Casermeiro_Professional_Profile/.CV_Joan_Antoni_Casermeiro_ES.md)
-- [Currículum en Inglés](.Joan_Antoni_Casermeiro_Professional_Profile/.CV_Joan_Antoni_Casermeiro_EN.md)
+- [Currículum en Español](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/CV_Joan_Antoni_Casermeiro_ES.md)
+- [Currículum en Inglés](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/CV_Joan_Antoni_Casermeiro_EN.md)
 
 ### 📌 Cartas de Presentación
-- [Carta de Presentación en Español](.Joan_Antoni_Casermeiro_Professional_Profile/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
-- [Cover Letter in English](./Cover_Letter_Joan_Antoni_Casermeiro_EN.md)
+- [Carta de Presentación en Español](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
+- [Cover Letter in English](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/Cover_Letter_Joan_Antoni_Casermeiro_EN.md)
 
 ---
 
@@ -37,12 +37,12 @@ Welcome to my professional repository. Here you will find my resume and cover le
 ## 📝 Available Files
 
 ### 📌 Resumes
-- [Resume in Spanish](./CV_Joan_Antoni_Casermeiro_ES.md)
-- [Resume in English](./CV_Joan_Antoni_Casermeiro_EN.md)
+- [Resume in Spanish](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/CV_Joan_Antoni_Casermeiro_ES.md)
+- [Resume in English](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/CV_Joan_Antoni_Casermeiro_EN.md)
 
 ### 📌 Cover Letters
-- [Cover Letter in Spanish](./Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
-- [Cover Letter in English](./Cover_Letter_Joan_Antoni_Casermeiro_EN.md)
+- [Cover Letter in Spanish](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
+- [Cover Letter in English](https://raw.githubusercontent.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/main/Cover_Letter_Joan_Antoni_Casermeiro_EN.md)
 
 ---
 
