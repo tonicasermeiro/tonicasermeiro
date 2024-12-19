@@ -22,7 +22,7 @@
   Formal cover letter in Spanish for professional opportunities.  
   Carta formal en español para oportunidades profesionales.
 
-- [🇬🇧 Cover Letter in English / Carta de Presentación en Inglés](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Cover_Letter_Joan_Antoni_Casermeiro_EN.md):  
+- [🇬🇧 Cover Letter in English / Carta de Presentación en Inglés](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Cover_Letter_Joan_Antoni_Casermeiro.md):  
   English cover letter tailored for international roles.  
   Carta formal en inglés dirigida a roles internacionales.
 
