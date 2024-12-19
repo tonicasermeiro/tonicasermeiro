@@ -1,10 +1,8 @@
 # 🗂️ Joan Antoni Casermeiro - Professional Portfolio
 
-## 🇬🇧 Welcome  
-Welcome to my professional repository. Here you will find my resume and cover letters in multiple languages, designed to showcase my skills and experience in railway maintenance, aeronautics, and cross-platform application development.
+🇬🇧 Welcome to my professional repository. Here you will find my resume and cover letters in multiple languages, designed to showcase my skills and experience in railway maintenance, aeronautics, and cross-platform application development.
 
-## 🇪🇸 Bienvenido  
-Bienvenido a mi repositorio profesional. Aquí encontrarás mi currículum y cartas de presentación en varios idiomas, diseñados para mostrar mis habilidades y experiencia en mantenimiento ferroviario, aeronáutica y desarrollo de aplicaciones multiplataforma.
+🇪🇸 Bienvenido a mi repositorio profesional. Aquí encontrarás mi currículum y cartas de presentación en varios idiomas, diseñados para mostrar mis habilidades y experiencia en mantenimiento ferroviario, aeronáutica y desarrollo de aplicaciones multiplataforma.
 
 ---
 
