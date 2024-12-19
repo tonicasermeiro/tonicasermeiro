@@ -69,6 +69,6 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 </div>
 <div align="center">
 
-### 📱 **+34692732447**
+### 📱 **+34 692 732 447**
 
 </div>
