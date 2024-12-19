@@ -29,9 +29,5 @@
 ---
 
 ## 🌐 Contact Information / Información de Contacto
-- **LinkedIn:** [linkedin.com/in/tonicasermeiro](https://www.linkedin.com/in/tonicasermeiro)
-- **Email:** [toni.casermeiro@icloud.com](mailto:toni.casermeiro@icloud.com)
-
----
-
-[🔙 Back to Profile / Regresar al Perfil](https://github.com/tonicasermeiro)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:toni.casermeiro@icloud.com)
