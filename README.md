@@ -67,5 +67,8 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
   [![toni.casermeiro@icloud.com](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
 
 </div>
+<div align="center">
 
-## 📱 **+34692732447**
+### 📱 **+34692732447**
+
+</div>
