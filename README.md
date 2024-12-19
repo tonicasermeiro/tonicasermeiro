@@ -70,9 +70,8 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonicasermeiro)
-  [![Email](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
-  📞 +34 692 732 447
+  [![in/tonicasermeiro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
+  [![tonicasermeiro](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonicasermeiro)
+  [![toni.casermeiro@icloud.com](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
 
 </div>
