@@ -14,7 +14,7 @@
 
 ## 🌍 Traductor Automático / Automatic Translator / Traductor Automàtic
 
-[🇪🇸 Español](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile) | [🇬🇧 English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile) | [🎗️ Català](https://translate.google.com/translate?sl=en&tl=ca&u=https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile)
+[🇪🇸 Español](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/tonicasermeiro/) | [🇬🇧 English](https://github.com/tonicasermeiro/) | [🎗️ Català](https://translate.google.com/translate?sl=en&tl=ca&u=https://github.com/tonicasermeiro/)
 
 ## 👋 About Me
 
