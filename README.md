@@ -52,11 +52,11 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 ## 📂 Available Documents
 
 ### Resume
-- [Resume in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/CV_Joan_Antoni_Casermeiro_EN.md)
-
+- [🇬🇧 Resume in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/CV_Joan_Antoni_Casermeiro_EN.md)
+- [🇪🇸 Currículum en Español](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/CV_Joan_Antoni_Casermeiro_ES.md)
 ### Cover Letter
-- [Cover Letter in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Cover_Letter_Joan_Antoni_Casermeiro.md)
-
+- [🇬🇧 Cover Letter in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Cover_Letter_Joan_Antoni_Casermeiro.md)
+- [🇪🇸 Carta de Presentación en Español](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
 ## ⭐ Why Me?
 
 - **Proven Expertise:** Over 5 years in railway and aeronautical maintenance
