@@ -54,6 +54,7 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 ### Resume
 - [🇬🇧 Resume in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/CV_Joan_Antoni_Casermeiro_EN.md)
 - [🇪🇸 Currículum en Español](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/CV_Joan_Antoni_Casermeiro_ES.md)
+- [🎗️ Curriculum en Català](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/CV_Joan_Antoni_Casermeiro_CAT.md)
 ### Cover Letter
 - [🇬🇧 Cover Letter in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Cover_Letter_Joan_Antoni_Casermeiro.md)
 - [🇪🇸 Carta de Presentación en Español](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
