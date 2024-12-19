@@ -29,5 +29,5 @@
 ---
 
 ## 🌐 Contact Information / Información de Contacto
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)[linkedin.com/in/tonicasermeiro]
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:toni.casermeiro@icloud.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)[![linkedin.com/in/tonicasermeiro]]
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:toni.casermeiro@icloud.com)[!toni.casermeiro@icloud.com]]
