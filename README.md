@@ -22,17 +22,17 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 
 ## 🎯 Specialties
 
-### Railway Maintenance
+### 🚄 Railway Maintenance
 - Signaling systems
 - Safety protocols
 - Preventive and corrective maintenance
 
-### Aeronautics
+### 🛩️ Aeronautics
 - System diagnostics
 - Aircraft maintenance
 - Regulatory compliance
 
-### Software Development
+### 👨🏽‍💻 Software Development
 - Cross-platform application development
 - Systems integration
 - Process automation
