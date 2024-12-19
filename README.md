@@ -59,6 +59,7 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 - [🇬🇧 Cover Letter in English](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Cover_Letter_Joan_Antoni_Casermeiro.md)
 - [🇪🇸 Carta de Presentación en Español](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Carta_Presentacion_Joan_Antoni_Casermeiro_ES.md)
 - [🎗️ Carta de Presentació en Català](https://github.com/tonicasermeiro/Joan_Antoni_Casermeiro_Professional_Profile/blob/main/Carta_Presentacio_Joan_Antoni_Casermeiro_CAT.md)
+
 ## ⭐ Why Me?
 
 - **Proven Expertise:** Over 5 years in railway and aeronautical maintenance
@@ -67,6 +68,9 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
 
 ## 📬 Contact Information
 
-- 💼 **LinkedIn:** [tonicasermeiro](https://www.linkedin.com/in/tonicasermeiro)
-- 📧 **Email:** [toni.casermeiro@icloud.com](mailto:toni.casermeiro@icloud.com)
-- 🔗 **GitHub:** [tonicasermeiro](https://github.com/tonicasermeiro)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonicasermeiro)
+  [![Email](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
+  📞 +34 692 732 447
+</div>
