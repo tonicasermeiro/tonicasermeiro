@@ -32,7 +32,7 @@
   - Railway signaling systems and safety protocols  
   - Aeronautical diagnostics and maintenance  
   - Cross-platform application development  
-  **🇪🇸 Experiencia Técnica:**  
+- **🇪🇸 Experiencia Técnica:**  
   - Sistemas de señalización ferroviaria y protocolos de seguridad  
   - Diagnóstico y mantenimiento aeronáutico  
   - Desarrollo de aplicaciones multiplataforma  
