@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/tonicasermeiro/Pictures/e1f7f1b2cbe99fdbf76e22783e28656d79ee43ab/IMG_4399.jpeg" alt="MasterHead" width="100%">
 </div>
 
-## 📸 Foto Profesional / Professional Photo
-
 <div align="center">
   <img src="https://github.com/tonicasermeiro/Pictures/blob/30f4002819d959e5758da11186aa5267112f7f0a/IMG_1324_Nero%20AI_Compress_High.jpeg?raw=true" alt="Foto Profesional" width="200px">
 </div>
