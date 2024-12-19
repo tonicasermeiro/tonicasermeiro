@@ -25,9 +25,9 @@
 ## 🛠️ **Technical Skills / Habilidades Técnicas**  
 
 - **🇬🇧 Programming Languages:** Java, Kotlin, SQL  
-  **🇪🇸 Lenguajes de Programación:** Java, Kotlin, SQL  
+- **🇪🇸 Lenguajes de Programación:** Java, Kotlin, SQL  
 - **🇬🇧 Tools & Platforms:** IntelliJ IDEA, Git, MongoDB, VirtualBox  
-  **🇪🇸 Herramientas y Plataformas:** IntelliJ IDEA, Git, MongoDB, VirtualBox  
+- **🇪🇸 Herramientas y Plataformas:** IntelliJ IDEA, Git, MongoDB, VirtualBox  
 - **🇬🇧 Technical Expertise:**  
   - Railway signaling systems and safety protocols  
   - Aeronautical diagnostics and maintenance  
