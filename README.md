@@ -4,14 +4,6 @@
 
 # Portfolio Professional
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonicasermeiro)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonicasermeiro)
-[![Email](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
-
-</div>
-
 ## 🌍 Traductor Automático / Automatic Translator / Traductor Automàtic
 
 [🇪🇸 Español](https://translate.google.com/translate?sl=en&tl=es&u=https://github.com/tonicasermeiro/) | [🇬🇧 English](https://github.com/tonicasermeiro/) | [🎗️ Català](https://translate.google.com/translate?sl=en&tl=ca&u=https://github.com/tonicasermeiro/)
@@ -75,3 +67,5 @@ I am a **multi-skilled maintenance technician** with over **5 years of experienc
   [![toni.casermeiro@icloud.com](https://img.shields.io/badge/Apple_Mail-0078D4?style=for-the-badge&logo=apple&logoColor=white)](mailto:toni.casermeiro@icloud.com)
 
 </div>
+
+## 📱 **+34692732447**
